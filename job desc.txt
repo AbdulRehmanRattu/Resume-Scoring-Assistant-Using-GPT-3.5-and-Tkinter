@@ -1,0 +1,6 @@
+Qualifications 
+Must have skills/attributes: Power BI
+Background with BI tools and systems such as PowerBI(5 year+) prior experience in data-related tasks Power BI workspace, Data module
+capable of enabling row-level data secuirty
+knowledge of power bi application secuirty layer models proficient in doing advanced-level computations on the data set.
+excellent communication skills are required to communicate needs with nice to haves: reg reporting background, snoflake.
