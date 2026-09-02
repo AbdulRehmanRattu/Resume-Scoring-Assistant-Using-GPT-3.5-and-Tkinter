@@ -1,5 +1,20 @@
 # AI-Powered Candidate Resume Scoring Assistant (GPT-3.5 & Tkinter Desktop Application)
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/NLP-Transformers%20%7C%20LLMs-FFD21E.svg?logo=huggingface&logoColor=black" alt="NLP">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 
 Human Resources departments and recruitment teams face substantial bottlenecks when manually screening hundreds of candidate resumes against specialized job requirements. Automated screening tools frequently rely on rigid keyword matching, missing qualified candidates who express skills using alternative phrasing.
@@ -7,7 +22,6 @@ Human Resources departments and recruitment teams face substantial bottlenecks w
 This project implements an intelligent, desktop-based recruitment assistant combining a multi-format document parser (PDF, DOCX, TXT), an interactive Tkinter graphical interface, and OpenAI's GPT-3.5-Turbo language model. The application evaluates candidate CVs against target job descriptions and mandatory technical competencies, providing quantitative match scoring and qualitative hiring feedback.
 
 ---
-
 
 ---
 
@@ -141,3 +155,15 @@ python final/project.py
 2. Paste the target position requirements into the **Job Description** box.
 3. Specify any mandatory core competencies in the **Mandatory Keywords** field.
 4. Click **Calculate Score** to generate the candidate alignment assessment.
+
+---
+
+## Author & Maintainer
+
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
