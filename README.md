@@ -3,13 +3,14 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/NLP-Transformers%20%7C%20LLMs-FFD21E.svg?logo=huggingface&logoColor=black" alt="NLP">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/LLM-OpenAI%20GPT--3.5-412991.svg?logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/GUI-Tkinter%20Desktop-3776AB.svg" alt="Tkinter">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -155,6 +156,8 @@ python final/project.py
 2. Paste the target position requirements into the **Job Description** box.
 3. Specify any mandatory core competencies in the **Mandatory Keywords** field.
 4. Click **Calculate Score** to generate the candidate alignment assessment.
+
+---
 
 ---
 
